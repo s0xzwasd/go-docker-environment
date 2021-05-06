@@ -17,7 +17,7 @@ Baisc example of usage Docker with Go and GoLand. Pay attention to requirements 
 2. Go to Dockerfile, click on the gutter icon over `FROM golang:1.16.3` and select Run 'Docker' option. ![Dockerfile with gutter icons in GoLand](https://i.imgur.com/MnLfhSQ.png)
 3. Open http://localhost:8000/ in the browser. ![Successful run in the docker container](https://i.imgur.com/D8wmiNf.png)
 
-### Roadmap
+## Roadmap
 
 - [x] Add a basic example of usage
 - [x] Pre-define run configurations
@@ -25,6 +25,10 @@ Baisc example of usage Docker with Go and GoLand. Pay attention to requirements 
 - [ ] Configure debugger options and describe the way to do it properly
 - [ ] Add docker-compose and how to debug it
 - [ ] Manage run targets and save it to the project
+
+## Troubleshooting
+
+TBD
 
 ## License
 
